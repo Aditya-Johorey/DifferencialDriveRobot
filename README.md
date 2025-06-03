@@ -4,6 +4,9 @@ This project showcases the design, assembly, and control of a **differential-dri
 
 Developed as part of the *Practical Robotics* module (ELE00152M-S1-A), the robot combines sensor fusion, motor control, and mapping techniques to explore a grid-based maze and avoid obstacles using SLAM and computer vision.
 
+![image](https://github.com/user-attachments/assets/c2324bad-2b3f-4908-980f-300dd1c13224)
+
+
 ## 🛠️ Hardware Components
 
 - Arduino Robotics Board (ARB)
