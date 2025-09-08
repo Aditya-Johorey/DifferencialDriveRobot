@@ -59,7 +59,7 @@ This robot combines sensor fusion, motor control, and mapping techniques to expl
   - Filters noisy sensor data using thresholding
   - Efficient environment exploration and mapping
 
-- **A* Pathfinding Algorithm**
+- **A-Star Pathfinding Algorithm**
   - Optimized using Manhattan Distance heuristic
   - Plans shortest path from start to goal in a known map
 
